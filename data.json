@@ -1,6 +1,6 @@
 {
   "user": "n0c0d3",
-  "scraped_at": "2026-10-12T19:12:19.950501",
+  "scraped_at": "2026-10-13T12:44:27.298520",
   "libraries": [
     {
       "id": "2404995",
@@ -12,7 +12,8 @@
           "author": "Valérie Weishar-Giuliani",
           "cover": "https://d23tvywehq0xq.cloudfront.net/09e64e4a33fa191e25e8bf598f76dc481883f9d0.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=158857714",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/158857714.jpg"
         },
         {
           "id": "162797021",
@@ -28,7 +29,8 @@
           "author": "Andrea Beaty",
           "cover": "https://d23tvywehq0xq.cloudfront.net/sj99c92803ad92da1b012c73fe852a692f.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=159204591",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/159204591.jpg"
         },
         {
           "id": "159423298",
@@ -36,7 +38,8 @@
           "author": "Emily Gravett",
           "cover": "https://d23tvywehq0xq.cloudfront.net/v4e428d2b9b69067e3bf8f126de1618c7a.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=159423298",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/159423298.jpg"
         },
         {
           "id": "153918531",
@@ -44,7 +47,8 @@
           "author": "Mariapaola Pesce",
           "cover": "https://d23tvywehq0xq.cloudfront.net/s96efeec633c5b078c3bb640e8e7d04630.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=153918531",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/153918531.jpg"
         },
         {
           "id": "152760159",
@@ -52,7 +56,8 @@
           "author": "Jory John",
           "cover": "https://d23tvywehq0xq.cloudfront.net/33579c8eb4d27c6e1674b256759ae9aaad046785.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152760159",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152760159.jpg"
         },
         {
           "id": "159204587",
@@ -60,7 +65,8 @@
           "author": "Jimmy Liao",
           "cover": "https://d23tvywehq0xq.cloudfront.net/ty98a149b73854f1777fea46cd36929edd.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=159204587",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/159204587.jpg"
         },
         {
           "id": "162796492",
@@ -68,7 +74,8 @@
           "author": "Benji Davies",
           "cover": "https://d23tvywehq0xq.cloudfront.net/iw1ab1acc8c92edd1318b2ea484e6d251e.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=162796492",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/162796492.jpg"
         },
         {
           "id": "156124806",
@@ -76,7 +83,8 @@
           "author": "Davide Panizza",
           "cover": "https://d23tvywehq0xq.cloudfront.net/l70417cd001e3aff4df3d4dec19b23082d.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=156124806",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/156124806.jpg"
         },
         {
           "id": "162797024",
@@ -84,7 +92,8 @@
           "author": "Benjamin Chaud",
           "cover": "https://d23tvywehq0xq.cloudfront.net/bm4d1168c107ac2705e3152fdfc56e6466.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=162797024",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/162797024.jpg"
         },
         {
           "id": "158576996",
@@ -92,7 +101,8 @@
           "author": "Thé Tjong-Khing",
           "cover": "https://d23tvywehq0xq.cloudfront.net/6sa4f281741c9a112ccffe062cfff29702.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=158576996",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/158576996.jpg"
         },
         {
           "id": "152282444",
@@ -100,7 +110,8 @@
           "author": "Emma Adbåge",
           "cover": "https://d23tvywehq0xq.cloudfront.net/u0ebc39ce5ef772a5edb8cd0f27ca452fe.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152282444",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152282444.jpg"
         },
         {
           "id": "156201521",
@@ -108,7 +119,8 @@
           "author": "Silvia Vecchini",
           "cover": "https://d23tvywehq0xq.cloudfront.net/22c5b2038313faf1bcc3cb3ae62daf51be277876.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=156201521",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/156201521.jpg"
         },
         {
           "id": "162797025",
@@ -116,7 +128,8 @@
           "author": "Benjamin Chaud",
           "cover": "https://d23tvywehq0xq.cloudfront.net/x5ed36810f8e095229eb7848ca339ad02f.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=162797025",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/162797025.jpg"
         },
         {
           "id": "159204595",
@@ -124,7 +137,8 @@
           "author": "Massimo Podda",
           "cover": "https://d23tvywehq0xq.cloudfront.net/ab63d15d6cf70c58578c049fae020fb854f4aa6b.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=159204595",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/159204595.jpg"
         },
         {
           "id": "154362804",
@@ -132,7 +146,8 @@
           "author": "Aaron Reynolds",
           "cover": "https://d23tvywehq0xq.cloudfront.net/89fd74e8dc8a2c2b5e4e242c976a9e8e74203ce2.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=154362804",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/154362804.jpg"
         },
         {
           "id": "161947949",
@@ -140,7 +155,8 @@
           "author": "Beatrice Alemagna",
           "cover": "https://d23tvywehq0xq.cloudfront.net/17d5d78a1917b0309ee7f4737c14e75698.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=161947949",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/161947949.jpg"
         },
         {
           "id": "159423301",
@@ -148,7 +164,8 @@
           "author": "Carolie Saudo",
           "cover": "https://d23tvywehq0xq.cloudfront.net/c73381b5eb7399d58bd3764b48e2e60554.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=159423301",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/159423301.jpg"
         },
         {
           "id": "162796518",
@@ -156,7 +173,8 @@
           "author": "Beatrice Alemagna",
           "cover": "https://d23tvywehq0xq.cloudfront.net/b4dc4be420daaa4362c9f1c4620548f023c53820.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=162796518",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/162796518.jpg"
         },
         {
           "id": "159423283",
@@ -164,7 +182,8 @@
           "author": "Silvia Borando",
           "cover": "https://d23tvywehq0xq.cloudfront.net/9k6c26b7a6956ced7b102fa144c7c9a114.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=159423283",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/159423283.jpg"
         },
         {
           "id": "158577047",
@@ -172,7 +191,8 @@
           "author": "Oliver Jeffers",
           "cover": "https://d23tvywehq0xq.cloudfront.net/c638d0a74afd6f0812df2e557dd7dbf9ab.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=158577047",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/158577047.jpg"
         },
         {
           "id": "152456998",
@@ -180,7 +200,8 @@
           "author": "Beatrice Alemagna",
           "cover": "https://d23tvywehq0xq.cloudfront.net/l657ce6d4c6698aabc0c37cb23701de675.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152456998",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152456998.jpg"
         },
         {
           "id": "152282432",
@@ -188,7 +209,8 @@
           "author": "Gek Tessaro",
           "cover": "https://d23tvywehq0xq.cloudfront.net/9b34aeebf1a3d27dd7382d4307bc430b53.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152282432",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152282432.jpg"
         },
         {
           "id": "159204501",
@@ -196,7 +218,8 @@
           "author": "Quentin Blake",
           "cover": "https://d23tvywehq0xq.cloudfront.net/j33f145a4cdbb57fbc6d013c105e6ec634.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=159204501",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/159204501.jpg"
         },
         {
           "id": "162796526",
@@ -204,7 +227,8 @@
           "author": "Leo Lionni",
           "cover": "https://d23tvywehq0xq.cloudfront.net/3yd3ded0a0c1357c9eba89f36b2e27699d.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=162796526",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/162796526.jpg"
         },
         {
           "id": "159204490",
@@ -212,7 +236,8 @@
           "author": "Pierre Bertrand",
           "cover": "https://d23tvywehq0xq.cloudfront.net/85acc330a996259f224944f03946bcb0a7.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=159204490",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/159204490.jpg"
         },
         {
           "id": "158577040",
@@ -220,7 +245,8 @@
           "author": "Magali Bonniol",
           "cover": "https://d23tvywehq0xq.cloudfront.net/yj9402875567bb16559463eeb62e1ff0c9.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=158577040",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/158577040.jpg"
         },
         {
           "id": "153559568",
@@ -228,7 +254,8 @@
           "author": "Chris Naylor-Ballesteros",
           "cover": "https://d23tvywehq0xq.cloudfront.net/at3f1d94bcad4ea26e25ee530885d7827d.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=153559568",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/153559568.jpg"
         },
         {
           "id": "158576991",
@@ -236,7 +263,8 @@
           "author": "Jane Yolen",
           "cover": "https://d23tvywehq0xq.cloudfront.net/yqf2dcc16e0b50bdce75d5adfdaea10129.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=158576991",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/158576991.jpg"
         },
         {
           "id": "159423296",
@@ -244,7 +272,8 @@
           "author": "Silvia Borando",
           "cover": "https://d23tvywehq0xq.cloudfront.net/nw57f10dc63fdfaa2764c498f36b5b7056.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=159423296",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/159423296.jpg"
         },
         {
           "id": "159423290",
@@ -252,7 +281,8 @@
           "author": "Silvia Borando",
           "cover": "https://d23tvywehq0xq.cloudfront.net/e0d8a29bd7fcb837d300b15394871acdcbe6f851.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=159423290",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/159423290.jpg"
         },
         {
           "id": "159204473",
@@ -260,7 +290,8 @@
           "author": "Mac Barnett",
           "cover": "https://d23tvywehq0xq.cloudfront.net/lbcd9c5a51ddd3a48867c7016fbb3a9e40.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=159204473",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/159204473.jpg"
         },
         {
           "id": "162796464",
@@ -268,7 +299,8 @@
           "author": "Gek Tessaro",
           "cover": "https://d23tvywehq0xq.cloudfront.net/d35c8dbff95382504fc40349304c67b04c6e3bfd.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=162796464",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/162796464.jpg"
         },
         {
           "id": "152583583",
@@ -276,7 +308,8 @@
           "author": "Rocio Bonilla",
           "cover": "https://d23tvywehq0xq.cloudfront.net/9he94533a4726fdba2d33c51b2cbeb8255.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152583583",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152583583.jpg"
         },
         {
           "id": "159204574",
@@ -284,7 +317,8 @@
           "author": "Jimmy Liao",
           "cover": "https://d23tvywehq0xq.cloudfront.net/wu06eb96ed453d71c9f8c8b4938a3a1583.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=159204574",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/159204574.jpg"
         },
         {
           "id": "162796545",
@@ -300,7 +334,8 @@
           "author": "Agnès de Lestrade",
           "cover": "https://d23tvywehq0xq.cloudfront.net/kmf5546db30a06e5d0c69c471636f2a0ed.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=162796495",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/162796495.jpg"
         },
         {
           "id": "158857743",
@@ -308,7 +343,8 @@
           "author": "",
           "cover": "https://d23tvywehq0xq.cloudfront.net/l200824aa6404d6419d1fe9c74a0cbf9d0.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=158857743",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/158857743.jpg"
         },
         {
           "id": "158577017",
@@ -316,7 +352,8 @@
           "author": "Anu Stohner",
           "cover": "https://d23tvywehq0xq.cloudfront.net/d2ec127433579e53da7157a3769b36658f.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=158577017",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/158577017.jpg"
         },
         {
           "id": "159204481",
@@ -324,7 +361,8 @@
           "author": "Benji Davies",
           "cover": "https://d23tvywehq0xq.cloudfront.net/lj369023e063b9d984cbdb1701fb7d7ca2.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=159204481",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/159204481.jpg"
         },
         {
           "id": "153559567",
@@ -332,7 +370,8 @@
           "author": "Julia Donaldson",
           "cover": "https://d23tvywehq0xq.cloudfront.net/xua1e37390fbf3da7fa9070985f73138d8.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=153559567",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/153559567.jpg"
         },
         {
           "id": "159423291",
@@ -340,7 +379,8 @@
           "author": "Alberto Lot",
           "cover": "https://d23tvywehq0xq.cloudfront.net/ti88410751ed461e7aafc6641689d0a75e.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=159423291",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/159423291.jpg"
         },
         {
           "id": "154362796",
@@ -348,7 +388,8 @@
           "author": "Mo Willems",
           "cover": "https://d23tvywehq0xq.cloudfront.net/h8b093ba448666be52c26af30a48baea18.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=154362796",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/154362796.jpg"
         },
         {
           "id": "154077874",
@@ -356,7 +397,8 @@
           "author": "Chiara Vignocchi",
           "cover": "https://d23tvywehq0xq.cloudfront.net/egacc8e5d11e9dc07d03331fa3bd8e9179.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=154077874",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/154077874.jpg"
         },
         {
           "id": "159204485",
@@ -364,7 +406,8 @@
           "author": "Helène Delforge",
           "cover": "https://d23tvywehq0xq.cloudfront.net/xr386fedcc490b0468abe291f1ee0d5a06.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=159204485",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/159204485.jpg"
         },
         {
           "id": "158577039",
@@ -372,7 +415,8 @@
           "author": "Benji Davies",
           "cover": "https://d23tvywehq0xq.cloudfront.net/8tfa8cbb2e9001259cd8652dc15194d43a.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=158577039",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/158577039.jpg"
         },
         {
           "id": "153918435",
@@ -380,7 +424,8 @@
           "author": "Orianne Lallemand",
           "cover": "https://d23tvywehq0xq.cloudfront.net/a43b83db388b66c1c8dbe8ccdfab0fb209.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=153918435",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/153918435.jpg"
         },
         {
           "id": "162796473",
@@ -396,7 +441,8 @@
           "author": "Anna Iudica",
           "cover": "https://d23tvywehq0xq.cloudfront.net/n4c1217fb237b53be942aa51d7274ce5ea.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=162796482",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/162796482.jpg"
         },
         {
           "id": "158857665",
@@ -404,7 +450,8 @@
           "author": "Beatrice Alemagna",
           "cover": "https://d23tvywehq0xq.cloudfront.net/8u24c701ea308dda1f5854cb8c469f2c0a.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=158857665",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/158857665.jpg"
         },
         {
           "id": "152282397",
@@ -412,7 +459,8 @@
           "author": "Susy Zanella",
           "cover": "https://d23tvywehq0xq.cloudfront.net/29e603402178c53597e6b22d11b406b3fe1b90a2.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152282397",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152282397.jpg"
         },
         {
           "id": "162796502",
@@ -420,7 +468,8 @@
           "author": "Rocio Bonilla",
           "cover": "https://d23tvywehq0xq.cloudfront.net/mhaa637fe81a1d7c4b1a4d952456a0a2fa.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=162796502",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/162796502.jpg"
         },
         {
           "id": "152872874",
@@ -428,7 +477,8 @@
           "author": "Sabine De Greef",
           "cover": "https://d23tvywehq0xq.cloudfront.net/sr5397a7fdfee152f08d2ecc17079d360a.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152872874",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152872874.jpg"
         },
         {
           "id": "154362799",
@@ -436,7 +486,8 @@
           "author": "Oliver Jeffers",
           "cover": "https://d23tvywehq0xq.cloudfront.net/9d6de57157f5cc6f448a8b4e7f7e3c5464.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=154362799",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/154362799.jpg"
         },
         {
           "id": "162796504",
@@ -444,7 +495,8 @@
           "author": "Maurice Sendak",
           "cover": "https://d23tvywehq0xq.cloudfront.net/bob56856aa4b610d1df2c3adb7cd5e2cfc.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=162796504",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/162796504.jpg"
         },
         {
           "id": "162796472",
@@ -452,7 +504,8 @@
           "author": "Pierre Bertrand",
           "cover": "https://d23tvywehq0xq.cloudfront.net/a636a66d86db81ba66a9a89d15d5ae9a18b4c530.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=162796472",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/162796472.jpg"
         },
         {
           "id": "152894553",
@@ -460,7 +513,8 @@
           "author": "Stephanie Blake",
           "cover": "https://d23tvywehq0xq.cloudfront.net/0ede4d19e232e25b3e1e757202926cb645e5ccbc.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152894553",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152894553.jpg"
         },
         {
           "id": "159204543",
@@ -468,7 +522,8 @@
           "author": "Oliver Jeffers",
           "cover": "https://d23tvywehq0xq.cloudfront.net/u30056a14f369ab387424b5e604cdce432.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=159204543",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/159204543.jpg"
         },
         {
           "id": "152894555",
@@ -476,7 +531,8 @@
           "author": "Mo Willems",
           "cover": "https://d23tvywehq0xq.cloudfront.net/wo2af4afe3f29db42f35be5fffb2832648.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152894555",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152894555.jpg"
         },
         {
           "id": "152425796",
@@ -484,7 +540,8 @@
           "author": "Davide Calì",
           "cover": "https://d23tvywehq0xq.cloudfront.net/v0dd93d22105de576d44629f1e0419fc95.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152425796",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152425796.jpg"
         },
         {
           "id": "161978033",
@@ -492,7 +549,8 @@
           "author": "Marianne Dubuc",
           "cover": "https://d23tvywehq0xq.cloudfront.net/rjc188daa4b7d31cffda2efb662362871d.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=161978033",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/161978033.jpg"
         },
         {
           "id": "152282370",
@@ -500,7 +558,8 @@
           "author": "David Long",
           "cover": "https://d23tvywehq0xq.cloudfront.net/cb592e4bf167000575d3a3b9a35831077a.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152282370",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152282370.jpg"
         },
         {
           "id": "152282112",
@@ -508,7 +567,8 @@
           "author": "Suzy Lee",
           "cover": "https://d23tvywehq0xq.cloudfront.net/6j06d42280c32823655e58042e8fe415bb.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152282112",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152282112.jpg"
         },
         {
           "id": "152282329",
@@ -516,7 +576,8 @@
           "author": "Kazuaki Yamada",
           "cover": "https://d23tvywehq0xq.cloudfront.net/6oa7718e6d3162383854bf44272ed23235.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152282329",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152282329.jpg"
         },
         {
           "id": "155952324",
@@ -524,7 +585,8 @@
           "author": "Philippe De Kemmeter",
           "cover": "https://d23tvywehq0xq.cloudfront.net/sj7a53b39cb65e0bd50654ff455f8e05ca.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=155952324",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/155952324.jpg"
         },
         {
           "id": "152425803",
@@ -532,7 +594,8 @@
           "author": "Eric Carle",
           "cover": "https://d23tvywehq0xq.cloudfront.net/qy244e04c55ec2171816e374d14b2256ae.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152425803",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152425803.jpg"
         },
         {
           "id": "152894535",
@@ -540,7 +603,8 @@
           "author": "Adrien Albert",
           "cover": "https://d23tvywehq0xq.cloudfront.net/ng0617c76e361ff3488b4a394f8f917fd8.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152894535",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152894535.jpg"
         },
         {
           "id": "158577052",
@@ -548,7 +612,8 @@
           "author": "Daywalt Drew",
           "cover": "https://d23tvywehq0xq.cloudfront.net/accf1b637bae5619b56554230332b954e8.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=158577052",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/158577052.jpg"
         },
         {
           "id": "152425806",
@@ -556,7 +621,8 @@
           "author": "Leo Lionni",
           "cover": "https://d23tvywehq0xq.cloudfront.net/2e89e2a0d3db966523ac618bd97001900b.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152425806",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152425806.jpg"
         },
         {
           "id": "155952328",
@@ -564,7 +630,8 @@
           "author": "Jerry Spinelli",
           "cover": "https://d23tvywehq0xq.cloudfront.net/gt91236cc79752ea16da04d87b260e6768.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=155952328",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/155952328.jpg"
         },
         {
           "id": "152760116",
@@ -572,7 +639,8 @@
           "author": "Peter H. Reynolds",
           "cover": "https://d23tvywehq0xq.cloudfront.net/xz986aeb486bb142802077dbc1603642c2.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152760116",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152760116.jpg"
         },
         {
           "id": "159423293",
@@ -580,7 +648,8 @@
           "author": "Mark Sommerset",
           "cover": "https://d23tvywehq0xq.cloudfront.net/e746bc29a67933dec707bb8ca25bfd65fdd777a3.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=159423293",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/159423293.jpg"
         },
         {
           "id": "153918412",
@@ -588,7 +657,8 @@
           "author": "Magali Bonniol",
           "cover": "https://d23tvywehq0xq.cloudfront.net/da10bc7da270db7f106bb7b7dd13caa4d6eb322c.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=153918412",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/153918412.jpg"
         },
         {
           "id": "162796484",
@@ -596,7 +666,8 @@
           "author": "Max Velthuijs",
           "cover": "https://d23tvywehq0xq.cloudfront.net/dd6e8e6e6b10ffaae7602902b66a4e6e2e16b965.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=162796484",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/162796484.jpg"
         },
         {
           "id": "152872941",
@@ -604,7 +675,8 @@
           "author": "Jon Agee",
           "cover": "https://d23tvywehq0xq.cloudfront.net/6if9d2f5340169b34a33276476c1c00973.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152872941",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152872941.jpg"
         },
         {
           "id": "152894559",
@@ -612,7 +684,8 @@
           "author": "Jon Klassen",
           "cover": "https://d23tvywehq0xq.cloudfront.net/9517f31a45da584f1d5448bdbb500cfb73efe309.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152894559",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152894559.jpg"
         },
         {
           "id": "159140751",
@@ -620,7 +693,8 @@
           "author": "Silvia Borando",
           "cover": "https://d23tvywehq0xq.cloudfront.net/gc83990eefd80e73d413ff13eda1d2f266.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=159140751",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/159140751.jpg"
         },
         {
           "id": "159204583",
@@ -628,7 +702,8 @@
           "author": "Mario Ramos",
           "cover": "https://d23tvywehq0xq.cloudfront.net/0j9285c6ff0afa29b91ee3ac89ef6a0922.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=159204583",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/159204583.jpg"
         },
         {
           "id": "152282470",
@@ -636,7 +711,8 @@
           "author": "Sarah Courtauld",
           "cover": "https://d23tvywehq0xq.cloudfront.net/ob413af82448013ed3c67f2f811b12bdee.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152282470",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152282470.jpg"
         },
         {
           "id": "159204559",
@@ -644,7 +720,8 @@
           "author": "Ramona Badescu",
           "cover": "https://d23tvywehq0xq.cloudfront.net/fja6c5b5e934e9a271dcd4767d33d5cf2d.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=159204559",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/159204559.jpg"
         },
         {
           "id": "161947934",
@@ -652,7 +729,8 @@
           "author": "Beatrice Alemagna",
           "cover": "https://d23tvywehq0xq.cloudfront.net/eab584cade6fe905a62191f558fd2f25ec2825b9.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=161947934",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/161947934.jpg"
         },
         {
           "id": "152282353",
@@ -660,7 +738,8 @@
           "author": "Linda Sarah",
           "cover": "https://d23tvywehq0xq.cloudfront.net/t38849c9f33d2d0ad6a23d0ad2c6590af6.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152282353",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152282353.jpg"
         },
         {
           "id": "159204577",
@@ -668,7 +747,8 @@
           "author": "Daishu Ma",
           "cover": "https://d23tvywehq0xq.cloudfront.net/h0b493525229039558907375376e9cc2ea.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=159204577",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/159204577.jpg"
         },
         {
           "id": "161933991",
@@ -676,7 +756,8 @@
           "author": "Beatrice Alemagna",
           "cover": "https://d23tvywehq0xq.cloudfront.net/810109820c40b4ce44ec13d91e3399fef27daba0.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=161933991",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/161933991.jpg"
         },
         {
           "id": "152894597",
@@ -692,7 +773,8 @@
           "author": "Davide Calì",
           "cover": "https://d23tvywehq0xq.cloudfront.net/fd3ced4709fa32fcaf9334c96c7b7f4e14.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=158577036",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/158577036.jpg"
         },
         {
           "id": "158857680",
@@ -700,7 +782,8 @@
           "author": "Smriti Prasadam-Halls",
           "cover": "https://d23tvywehq0xq.cloudfront.net/c6edd73735b072eee6d263596c93c060ff.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=158857680",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/158857680.jpg"
         },
         {
           "id": "152894550",
@@ -708,7 +791,8 @@
           "author": "Germano Zullo",
           "cover": "https://d23tvywehq0xq.cloudfront.net/iz77da245cd91b4861e909c805086413cf.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152894550",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152894550.jpg"
         },
         {
           "id": "152513323",
@@ -716,7 +800,8 @@
           "author": "Emma Adams",
           "cover": "https://d23tvywehq0xq.cloudfront.net/1597cc234e65d757b01cfe6937ade9ef1d3e71dd.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152513323",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152513323.jpg"
         },
         {
           "id": "152038500",
@@ -724,7 +809,8 @@
           "author": "Marc-Uwe Kling",
           "cover": "https://d23tvywehq0xq.cloudfront.net/d7f6d293e4e76916418f265f378b2b5e30.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152038500",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152038500.jpg"
         },
         {
           "id": "156201516",
@@ -732,7 +818,8 @@
           "author": "Pippa Goodhart",
           "cover": "https://d23tvywehq0xq.cloudfront.net/0776fec773a3df44808fd8cab7deeab695.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=156201516",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/156201516.jpg"
         },
         {
           "id": "153918418",
@@ -740,7 +827,8 @@
           "author": "Magali Bonniol",
           "cover": "https://d23tvywehq0xq.cloudfront.net/hn09b59738a000a4f4496d04c1564e04a4.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=153918418",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/153918418.jpg"
         },
         {
           "id": "159204477",
@@ -748,7 +836,8 @@
           "author": "Aaron Becker",
           "cover": "https://d23tvywehq0xq.cloudfront.net/wy5ea22f83048056901eefe89e15c421f3.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=159204477",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/159204477.jpg"
         },
         {
           "id": "152038475",
@@ -756,7 +845,8 @@
           "author": "Sean Taylor",
           "cover": "https://d23tvywehq0xq.cloudfront.net/qydd86ae0d53e943d5b25fc4b51c702453.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152038475",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152038475.jpg"
         },
         {
           "id": "152292501",
@@ -764,7 +854,8 @@
           "author": "Jon Klassen",
           "cover": "https://d23tvywehq0xq.cloudfront.net/v328ea28e2ba202d3c63f8e023eab98465.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152292501",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152292501.jpg"
         },
         {
           "id": "152425785",
@@ -772,7 +863,8 @@
           "author": "Tony Ross",
           "cover": "https://d23tvywehq0xq.cloudfront.net/okbd2119a15b38e2cb35369ceba2e66c48.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152425785",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152425785.jpg"
         },
         {
           "id": "152282494",
@@ -780,7 +872,8 @@
           "author": "Julia Donaldson",
           "cover": "https://d23tvywehq0xq.cloudfront.net/ns257e73bdb1c9144c81e3386324b4bc41.jpg",
           "url": "https://www.libib.com/u/n0c0d3?solo=152282494",
-          "lib": "2404995"
+          "lib": "2404995",
+          "cover_local": "covers/152282494.jpg"
         }
       ]
     }
